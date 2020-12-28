@@ -1,3 +1,3 @@
-import Functions.process_data as prs
+import Functions.generate_data as prs
 
 prs
